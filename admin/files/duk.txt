@@ -1,0 +1,51 @@
+
+
+
+Kokia yra budejimo trukme ?                                                                                                                                                 
+
+
+
+
+
+Baterijos budėjimo trukmė labai priklauso nuo įrenginio naudojamo sąlygų bei įjungtų įrenginio funkcijų:
+Įvairūs papildomi ryšiai: Belaidis internetas (WiFi), Bluetooth (BT), artimo radijo lauko ryšys (NFC), trečios kartos tinklo ryšys (3G) , ketvirtos kartos ryšys (4G/LTE), navigacija (GPS). Jei nėra būtinybės ir tomis funkcijomis nesinaudojama, patariama išjungti jas įrenginio nustatymuose.
+Duomenų sinchronizacija (elektroninis paštas, atsarginės kopijos , įvairių paskyrų sinchronizavimas). Patariama naudoti kuo retesnį sinchronizacijos dažnį. Pvz.:  Nustatyti elektroninio pašto nuskaitymą tik pareikalavus arba padidinti sinchronizacijos intervalą (1 kartą per valandą).
+ Aktyvios programos. Didesnis aktyvių programų skaičius trumpina baterijos budėjimo  laiką. Pabaigus naudotis programa reikia ją išjungti, įsitikinant, kad ji nebeveikia fone. Tai galima padaryti patikrinant aktyvių programų sąrašą įrenginyje .
+Ekrano apšvietimo intensyvumas ir aktyvumo laikas. Rekomenduojama įrenginio nustatymuose nustatyti automatinį apšvietimą bei sutrumpinti ekrano aktyvumo laiką, kai įrenginys nenaudojamas.
+Rekomenduojama naudoti tik originalius gamintojo numatytus priedus (baterija, įkroviklis , USB laidas).
+Navigacijos (GPS) naudojimas
+Mob. įrenginyje turi būti įdiegta tinkama navigacijos programa. Daugeliu atvejų kiekvienos šalies žemėlapiai turi būti parsiųsti į įrenginio arba SD/MMC kortelės atmintį.
+Greitesniam ir sklandesniam GPS padėties nustatymui rekomenduojama įgalinti tinklo ir duomenų asistavimą (A-GPS, Network Assist funkcijos). Pastaba – gali būti papildomai apmokestinamas duomenų perdavimas.
+Įrenginyje būtina nustatyti tikslią datą, laiką, laiko juostą ir regioną.Esamos padėties pirminis nustatymas įvyksta greičiau, jei objektas stovi vietoje (nejuda, nevažiuoja).
+Kameros funkcijos naudojimas
+                                                                                                                                                                                      
+ Geresnė vaizdo kokybė gaunama esant geresniam aplinkos apšvietimui.
+Naudojant skaitmeninį priartinamą, vaizdo kokybė gali suprastėti.
+Daugumos mob. įrenginių nustatymuose galima keisti nuotraukų/vaizdo klipų saugojimo vietą: vidinė įrenginio atmintis arba SD/MMC kortelės atmintis. Tai naudinga esant užpildytai vidinei įrenginio atminčiai.
+Apsauginių plėvelių naudojimas ant įrenginio kameros stiklo gali suprastinti vaizdo kokybę. Reikia įsitikinti, ar naudojama apsauginė plėvelė ar dėklas neužstoja kameros stiklo.
+Norint išgauti vaizde išskirtinio objekto ryškumą, rekomenduojama rankiniu būdu pasirinkti fokusavimo tašką (ši galimybė yra ne visuose įrenginiuose), nustatant/nurodant objektyvą, į kurį norima fokusuoti.
+Fotografuojant iš arti (~20 cm), rekomenduojama naudoti „Macro“ funkciją.
+ Rezoliucijos/raiškos dydis (Mpix) lemia gaunamo vaizdo dydį. Kuo didesnė rezoliucija/raiška, tuo gaunamas didesnio formato vaizdas. Esant mažai rezoliucijai/raiškai, didinant vaizdą gaunami iškraipymai.
+                                                                                                                                                                               
+Įrenginio baterijos krovimas
+                                                                                                                                                                               
+Jei įrenginio baterija yra visiškai išsikrovus ir prietaisas net neįsijungia (įjungus kroviklį neindikuojamas krovimas). Tokiais atvejais reikalingas ilgesnis krovimo laikas, norint sužadinti visiškai iškrautą įrenginio bateriją. Rekomenduojama prijungti kroviklį ir palikti prietaisą krautis mažiausiai 30 min.
+Rekomenduojama naudoti tik originalius, gamintojo numatytus, priedus (baterija, įkroviklis, USB laidas).
+Norint greičiau įkrauti įrenginio bateriją rekomenduojama krovimo metu nesinaudoti įrenginiu.
+                                                                                                                                                                             
+Sklandus įrenginio veikimas
+                                                                                                                                                                   
+Aktyvios programos. Didesnis aktyvių programų skaičius lėtina įrenginio veikimą. Pabaigus naudotis programa reikia ją išjungti, įsitikinant, kad ji nebeveikia fone. Tai galima padaryti patikrinant aktyvių programų sąrašą įrenginyje .
+Pakankamas įrenginio laisvos vidinės atminties dydis. Įrenginys gali naudoti vidinės atminties resursus, atliktų tam tikras operacijas. Rekomenduojama neužpildyti įrenginio vidinės atminties, kad liktų laisvų resursų numatytoms įrenginio operacijoms.
+Jei įrenginys veikia lėtai ir su trukdžiais, rekomenduojama atkurti gamintojo numatytus parametrus. Pastaba – gali būti ištrinti asmeniniai duomenys įrenginyje, rekomenduojame pasidaryti atsarginę įrenginio duomenų kopiją.
+Įdiegtos 3-ių šalių ekrano animacijos ir valdikliai papildomai naudoja įrenginio resursus. Kad įrenginys veiktų sklandžiau rekomenduojama naudoti gamykliškai įdiegtas funkcijas.
+Programinės įrangos atnaujinimas. Naujausia įrenginio programinė įranga užtikrina sklandų įrenginio veikimą. Programinė įranga gali būti atnaujinama vartotojui prieinamu būdu, kuris pateiktas gamintojo arba įgaliotame techniniame centre.
+ 
+                                                                                                                                                                                 
+Apsauginės plėvelės naudojimas
+                                                                                                                                                                                
+Rekomenduojame naudoti tik tam tikram įrenginio modeliui skirtą apsauginę plėvelė/dėklą.
+Apsauginė plėvelė/dėklas neturi užstoti įrenginyje įrengtų jutiklių (šviesos jutiklis, artumo jutiklis ir pan.) Pvz.: Jei apsauginė plėvelė uždengia artumo jutiklį, ekranas gali išsijungti iš karto atsiliepus į skambutį arba atvirkščiai - ekranas gali likti aktyvus pokalbio metu ir įsijungti atsitiktinės funkcijos (paspaudimus lietimui jautriame ekrane).
+Apsauginių plėvelių naudojimas ant įrenginio kameros stiklo gali suprastinti vaizdo kokybę. John Smith
+John Smith
+John Smith
